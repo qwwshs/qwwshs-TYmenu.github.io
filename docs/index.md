@@ -8,7 +8,7 @@ hero:
   tagline: 某高校周围的菜单
   actions:
     - theme: brand
-      text: 项目地址
+      text: 菜单
       link: 菜单
 
 features:
