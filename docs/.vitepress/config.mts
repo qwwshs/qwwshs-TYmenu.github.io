@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TYmenu",
   description: "a menu",
+  base: '/qwwshs-TYmenu.github.io/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
