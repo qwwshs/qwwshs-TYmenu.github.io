@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 项目地址
-      link: https://github.com/qwwshs/qwwshs-TYmenu.github.io
+      link: 菜单
 
 features:
   - title: 更新慢
