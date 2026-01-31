@@ -10,7 +10,9 @@ hero:
     - theme: brand
       text: 菜单
       link: 菜单
-
+    - theme: alt
+      text: 项目地址
+      link: https://github.com/qwwshs/TYmenu
 features:
   - title: 更新慢
     details: 学生
@@ -24,15 +26,23 @@ features:
 
 + TYmenu其旨在整理某高校周围可点外卖 摆脱 __饭难吃 吃饭难__ 的问题
 
+::: warning
+  本项目不保证菜单 __完全正确__ ，请在使用时自行确认
+:::
+
 # 常见问题
 
-q:想打印菜单
+Q:想打印菜单
 
-a:前往github下载[pandoc](https://github.com/jgm/pandoc/releases/)再将[TYmenu](https://github.com/qwwshs/qwwshs-TYmenu.github.io)里想要的菜单下载下来转换即可 或者到网上寻找markdown转换器（转为word，pdf等）
+A:前往github下载[pandoc](https://github.com/jgm/pandoc/releases/)再将[TYmenu](https://github.com/qwwshs/TYmenu)里想要的菜单下载下来转换即可 或者到网上寻找markdown转换器（转为word，pdf等）
 
-q:我手上有一份菜单 如何如何进行贡献？
+Q:我有一份这里没有的菜单/我可以为这里的菜单做补充 我应该如何进行贡献？
 
-a:将菜单转化为markdown格式 并且符合站内菜单的样式 然后从github发起合并请求即可 需要注意的是 提交的菜单 __必须遵循__ CC BY 4.0协议
+A:将菜单转化为markdown格式 并且符合站内菜单的样式 然后从github发起合并请求即可 需要注意的是 提交的菜单 __必须遵循__ CC BY 4.0协议
+
+# Extra
+
+该高校的音P群:710095845
 
 # 开源协议
 
